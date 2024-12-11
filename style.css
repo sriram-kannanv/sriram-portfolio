@@ -353,11 +353,11 @@ nav .fa-solid{
         background-image: url(images/IMG_20240712_100511967_MP-removebg.png);
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 16px;
+        margin-top: 50%;
+        font-size: 28px;
     }
     .header-text h1{
-        font-size: 13px;
+        font-size: 22px;
     }
     nav .fa-solid{
         display: block;
